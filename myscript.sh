@@ -93,6 +93,9 @@ do
 done
 
 
+echo "My echo command added."
+
+
 
 
 
