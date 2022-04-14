@@ -95,7 +95,7 @@ done
 
 echo "My echo command added."
 
-
+echo "Test trigger pineline"
 
 
 
